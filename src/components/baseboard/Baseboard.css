@@ -1,0 +1,14 @@
+.baseboard{
+    display: flex;
+    padding: 0 30px 0 0;
+}
+
+.content{
+    padding: 50px 0 0 50px;
+    /* display: flex; */
+}
+
+.list{
+    display: flex;
+    flex-direction: column;
+}
